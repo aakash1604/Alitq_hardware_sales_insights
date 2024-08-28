@@ -2,7 +2,7 @@
 ## Data Analysis using SQL and Power BI
 
 ## Project Statement:
-Determining insights to manager about hardware sales by building dashboards in Power BI. Business all the data they need but when manager want to track the sales, the whole doesn't speak anything.
+Determining insights to manager about hardware sales by building dashboards in Power BI. Business had all the data they need but when manager want to track the sales, the whole doesn't speak anything.
 #### Requirements: 
 1. Connect the sql file to MySql Database
 2. Load the data from MySQl to PowerBI using Connector
